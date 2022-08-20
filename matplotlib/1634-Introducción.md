@@ -21,7 +21,7 @@
 * Funciona bien con muchos sistemas operativos y backends gráficos
 * Gráficos y plots de alta calidad.
 * Capacidad para generar y ver una gran variedad de gráficos
-* Soporte de gran comunidad y soporte multiplataforma
+* Soporte de una gran comunidad y soporte multiplataforma
 * Control total sobre gráficos o estilos de plots
 
 
