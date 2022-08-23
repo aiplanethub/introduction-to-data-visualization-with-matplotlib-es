@@ -19,10 +19,10 @@
 * Rápido y eficiente
 * Código abierto
 * Funciona bien con muchos sistemas operativos y backends gráficos
-* Gráficos y plots de alta calidad.
+* Gráficos y trazos  de alta calidad.
 * Capacidad para generar y ver una gran variedad de gráficos
 * Soporte de una gran comunidad y soporte multiplataforma
-* Control total sobre gráficos o estilos de plots
+* Control total sobre gráficos o estilos de trazos
 
 
 
@@ -32,11 +32,6 @@
 * Antes de poder utilizar las funciones de trazado de Matplotlib, es necesario instalar Matplotlib.
 * La distribución Anaconda de Python y Google Colab viene con Matplotlib preinstalado y no se necesitan más pasos de instalación.
 * Sin embargo, si no está utilizando ninguno de ellos, puede instalarlo ejecutando un comando pip simple en su terminal: **`pip install matplotlib`**
-
-
-
-
-
 
 ### Pyplot
 
